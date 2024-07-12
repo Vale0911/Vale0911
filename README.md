@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valentina Mesa I'm a student of Physics, Applied Mathematics, and Computer Science, currently venturing into frontend development. My future aspirations include becoming a full-stack developer, as I also aim to apply my skills in backend development. I'm enthusiastic about collaborating on projects that challenge me and offer new learning opportunities. At the moment, I'm seeking small projects to gain practical experience.
+- 👋 Hi, I’m Valentina Mesa I'm a student of Applied Mathematics, and Computer Science, currently venturing into frontend development. My future aspirations include becoming a full-stack developer, as I also aim to apply my skills in backend development. I'm enthusiastic about collaborating on projects that challenge me and offer new learning opportunities. At the moment, I'm seeking small projects to gain practical experience.
 - 🌱 I’m currently learning frontend development.
 - 💼 Looking to collaborate on projects that broaden my skillset.
 - 📫 You can reach me via email.
